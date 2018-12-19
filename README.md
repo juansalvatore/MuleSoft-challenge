@@ -1,12 +1,10 @@
 # Instructions to run the project locally
 
-1. ```git clone https://github.com/dmalan/index.git```
+1. ```git clone https://github.com/juansalvatore/MuleSoft-challenge.git```
 
-2. ```git checkout correction-1```
+2. ```npm install```
 
-3. ```npm install```
-
-4. To try it out run ```node index.js < input.txt```, you can run your own version of input.txt (remember to end the file with ```quit```)
+3. To try it out run ```node index.js < input.txt```, you can test your own version of input.txt (remember to end the file with ```quit```)
 
 ### Available commands: 
 
