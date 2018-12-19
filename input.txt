@@ -1,0 +1,7 @@
+mkdir test
+mkdir test2
+cd test2
+mkdir test2-a
+touch FILE
+tree
+quit
