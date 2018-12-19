@@ -8,7 +8,7 @@
 
 ### Available commands: 
 
-  - ```pwd``` Shows current path.
+  - ```pwd``` Shows the current path.
   
   - ```tree``` Creates a treeify graph of the whole "drive".
   
