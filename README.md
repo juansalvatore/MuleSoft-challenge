@@ -20,6 +20,6 @@
   
   - ```cd``` Leaves a directory.
   
-  - ```mkdir``` Creates a new directory.
+  - ```mkdir [directory name]``` Creates a new directory.
   
-  - ```touch``` Creates a new file.
+  - ```touch [file name]``` Creates a new file.
